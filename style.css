@@ -7,15 +7,15 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
- /*body{
+ body{
     background: url("images/image-2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     overflow: hidden;
     backdrop-filter: blur(2px);
-}*/
-   body {
+}
+   /*body {
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -24,10 +24,10 @@
     position: fixed;
     right: 0;
     bottom: 0;
-    min-width: 100%; /* Cover the entire viewport width */
-    min-height: 100%; /* Cover the entire viewport height */
-    z-index: -1; /* Place the video behind other content */
-    }
+    min-width: 100%;
+    min-height: 
+    z-index: -1; 
+    }*/
 .wrapper{
     display: flex;
     justify-content: center;
